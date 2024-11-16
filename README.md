@@ -28,14 +28,14 @@ https://github.com/user-attachments/assets/9c84dffd-4c74-4ff9-9de4-869473183aee
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/aishasalim/brain-tumor-classification.git
-   cd brain-tumor-classification
+   git clone https://github.com/aishasalim/btc.git
+   cd btc
    ```
 
 2. **Create a Virtual Environment**
 
    ```bash
-   python -m venv venv
+   python@3.11 -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
 
@@ -70,10 +70,6 @@ https://github.com/user-attachments/assets/9c84dffd-4c74-4ff9-9de4-869473183aee
    - Generate expert explanations using the selected language model.
 
 ## Models
-
-Link to the google doc with the models. <a href="https://drive.google.com/drive/folders/1biAnkbKi41rgnP_-ddcK3WNsoVr7gNJg?usp=sharing">LINK</a>
-
-Add the following models file to the models directory.
 
 - **Transfer Learning - Xception**
 
