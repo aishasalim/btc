@@ -6,8 +6,6 @@ A Streamlit application for classifying brain MRI scans to detect tumors using m
 
 ## Live Demo
 
-https://github.com/user-attachments/assets/9c84dffd-4c74-4ff9-9de4-869473183aee
-
 ## Features
 
 - **Image Classification**: Classify MRI scans into Glioma, Meningioma, Pituitary, or No Tumor.
